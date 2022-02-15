@@ -4,8 +4,13 @@ description: 'This file discusses about the Kontsevich moduli space of stable ma
   divisor classes on the Kontsevich moduli space and enumerative geometry, counting
   genus zero curves in Pn: Vakil''s algorithm and the cones of ample and effective
   divisors on the Kontsevich moduli space.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/da39672634b11e4f26bcf4c45dbbd950_kontsevich.pdf
+file: /media/courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/da39672634b11e4f26bcf4c45dbbd950_kontsevich.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: kontsevich.pdf
 uid: da396726-34b1-1e4f-26bc-f4c45dbbd950

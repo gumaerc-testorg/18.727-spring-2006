@@ -4,8 +4,13 @@ description: This file discusses about preliminaries, the canonical bundle of th
   moduli space of curves, ample divisors on the moduli space of curves, the compuatation
   of the classes of Brill-Noether divisors, and the ample and effective cones of the
   moduli space of curves.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/62affca28e907c4bbfb6655e172a04d6_generaltype.pdf
+file: /media/courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/62affca28e907c4bbfb6655e172a04d6_generaltype.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: generaltype.pdf
 uid: 62affca2-8e90-7c4b-bfb6-655e172a04d6
