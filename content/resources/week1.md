@@ -6,6 +6,7 @@ file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: week1.pdf
 uid: 724a313e-15ee-9f90-ae45-37c0c240f893
 ---
 This file discusses about this course, as well as, preliminaries about the Grassmannian and Littlewood-Richardson rule.
-

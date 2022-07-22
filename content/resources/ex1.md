@@ -5,6 +5,7 @@ description: This file contains a set of exercises in order to gain practice wit
 file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/3a37bccff1925226569d9b08b8486c23_ex1.pdf
 file_type: application/pdf
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: ex1.pdf
 uid: 3a37bccf-f192-5226-569d-9b08b8486c23
 ---
 This file contains a set of exercises in order to gain practice with Schubert calculus.
-
