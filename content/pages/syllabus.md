@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: The syllabus section contains the information about course description,
+  prerequisites, required text, problem sets, exams and grading for the course.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: ccda6e04-b048-9301-4a83-9a32264ac198
 ---
@@ -83,7 +87,7 @@ Algebraic Geometry (18.725). This is a first year graduate class in algebraic ge
 Required Text
 -------------
 
-There is no required text for this course. However, there are many [recommended readings]({{< baseurl >}}/pages/readings).
+There is no required text for this course. However, there are many {{% resource_link f5e3608f-6cd8-31f4-62c9-dece3b2820ef "recommended readings" %}}.
 
 Grading
 -------
