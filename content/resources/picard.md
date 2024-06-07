@@ -5,6 +5,7 @@ description: This file discusses about the cohomology of the moduli space of poi
   first, third and fifth cohomology groups of moduli space and the Picard group of
   the moduli functor.
 file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/10078cf3d80a1cdf4ff766a80eee8b32_picard.pdf
+file_size: 264298
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
