@@ -3,6 +3,7 @@ content_type: resource
 description: This file discusses about this course, as well as, preliminaries about
   the Grassmannian and Littlewood-Richardson rule.
 file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/724a313e15ee9f90ae4537c0c240f893_week1.pdf
+file_size: 253501
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
