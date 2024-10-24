@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains a set of exercises in order to gain practice with
   divisor class calculations.
-file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/0ad4569eac575e6b3656695da785143d_formularium.pdf
+file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/0ad4569eac575e6b3656695da785143d_formularium.pdf
 file_size: 50302
 file_type: application/pdf
 learning_resource_types: []
