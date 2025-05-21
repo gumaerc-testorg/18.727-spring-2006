@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains a set of exercises in order to gain practice with
   Schubert calculus.
-file: /ol-ocw-studio-app/courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/3a37bccff1925226569d9b08b8486c23_ex1.pdf
+file: /courses/18-727-topics-in-algebraic-geometry-intersection-theory-on-moduli-spaces-spring-2006/3a37bccff1925226569d9b08b8486c23_ex1.pdf
 file_size: 33543
 file_type: application/pdf
 learning_resource_types: []
