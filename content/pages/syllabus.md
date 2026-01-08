@@ -26,14 +26,14 @@ My book _Combinatorics and Commutative Algebra_ has many possible topics, as doe
 Topological Combinatorics (For those Who Know Some Algebraic Topology)
 ----------------------------------------------------------------------
 
-{{% resource_link "b75c40d8-30c4-4608-8e11-a98609d17334" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Graham, R. L., M. Grötschel, and L. Lovász, eds. {{% resource_link "b75c40d8-30c4-4608-8e11-a98609d17334" "_Handbook of Combinatorics_" %}}. Vol. 2. Cambridge, MA: MIT Press, 1995. ISBN: 0262071711.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262071711) Graham, R. L., M. Grötschel, and L. Lovász, eds. [_Handbook of Combinatorics_](https://mitpress.mit.edu/0262071711). Vol. 2. Cambridge, MA: MIT Press, 1995. ISBN: 0262071711.
 
 The article "Topological methods" by Anders Björner in _Handbook of Combinatorics_, vol. 2, pp. 1819-1872, is a good place to get started.
 
 Linear Algebra and Combinatorics
 --------------------------------
 
-{{% resource_link "b75c40d8-30c4-4608-8e11-a98609d17334" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Graham, R. L., M. Grötschel, and L. Lovász, eds. {{% resource_link "b75c40d8-30c4-4608-8e11-a98609d17334" "_Handbook of Combinatorics_" %}}. Vol. 2. Cambridge, MA: MIT Press, 1995. ISBN: 0262071711.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262071711) Graham, R. L., M. Grötschel, and L. Lovász, eds. [_Handbook of Combinatorics_](https://mitpress.mit.edu/0262071711). Vol. 2. Cambridge, MA: MIT Press, 1995. ISBN: 0262071711.
 
 See the articles "Tools from linear algebra" by C. D. Godsil, pp. 1707-1748, and "Tools from higher algebra" by Noga Alon, pp. 1749-1783, in _Handbook of Combinatorics_, vol. 2.
 
@@ -56,7 +56,7 @@ See _Algebra and Tiling_ by S. K. Stein and S. Szabó. I hope to cover some of t
 Combinatorics and Symmetry
 --------------------------
 
-{{% resource_link "0ca88cf2-9fac-4e87-8203-c9d0188ad589" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Graham, R. L., M. Grötschel, and L. Lovász, eds. {{% resource_link "0ca88cf2-9fac-4e87-8203-c9d0188ad589" "_Handbook of Combinatorics_" %}}. Vol. 1. Cambridge, MA: MIT Press, 1995. ISBN: 0262071703.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/0262071703) Graham, R. L., M. Grötschel, and L. Lovász, eds. [_Handbook of Combinatorics_](https://mitpress.mit.edu/0262071703). Vol. 1. Cambridge, MA: MIT Press, 1995. ISBN: 0262071703.
 
 This includes such topics as permutation groups, association schemes, block designs, and codes. See Chapters 12-16 in _Handbook of Combinatorics_, vol. 1.
 
